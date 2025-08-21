@@ -1,15 +1,15 @@
 {
-  "name": "love-messagess-animation",
+  "name": "simple-love-messages",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "npm install\r npm node main.js",
+  "main": "main.js",
   "type": "module", 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "dowy.xyz",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "chalk": "^5.6.0"
   }
